@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
-VisualStudioVersion = 16.0.31112.23
+VisualStudioVersion = 16.0.29509.3
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domicilios_JSON", "Domicilios_JSON\Domicilios_JSON.csproj", "{F6FCF17B-C306-4D24-9529-F7C57991840F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domicilios_JSON", "Domicilios_JSON\Domicilios_JSON.csproj", "{D3C4B6F8-0AA1-4743-9654-94CA4F0BC9EF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{F6FCF17B-C306-4D24-9529-F7C57991840F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F6FCF17B-C306-4D24-9529-F7C57991840F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F6FCF17B-C306-4D24-9529-F7C57991840F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F6FCF17B-C306-4D24-9529-F7C57991840F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3C4B6F8-0AA1-4743-9654-94CA4F0BC9EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3C4B6F8-0AA1-4743-9654-94CA4F0BC9EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3C4B6F8-0AA1-4743-9654-94CA4F0BC9EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3C4B6F8-0AA1-4743-9654-94CA4F0BC9EF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {17A444D8-2CC5-4B7E-9C6F-9480862ED246}
+		SolutionGuid = {5ED3D692-E9F6-4A3D-953C-E77D1AB63274}
 	EndGlobalSection
 EndGlobal

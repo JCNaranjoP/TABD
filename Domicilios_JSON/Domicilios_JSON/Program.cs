@@ -1,4 +1,8 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
 namespace Domicilios_JSON
 {
@@ -6,7 +10,15 @@ namespace Domicilios_JSON
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            List<Domicilio> lista = AccesoDatos.ObtieneListaDomicilios(2);
+
+            lista.ForEach(c => AccesoDatos.ObtieneListaDomicilios(2).Add(c));
+
+            foreach(var i in lista)
+            {
+                Console.WriteLine(i.Agente);
+            }
+            Console.ReadKey();
         }
     }
 }

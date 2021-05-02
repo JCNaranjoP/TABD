@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\iefaz\\source\\repos\\Domicilios_JSON\\Domicilios_JSON\\Domicilios_JSON.csproj": {}
+    "C:\\Users\\juane\\Desktop\\Universidad\\Semestre 6\\Tópicos avanzados en bases de datos\\Actividad_Bonificacion\\TABD\\Domicilios_JSON\\Domicilios_JSON\\Domicilios_JSON.csproj": {}
   },
   "projects": {
-    "C:\\Users\\iefaz\\source\\repos\\Domicilios_JSON\\Domicilios_JSON\\Domicilios_JSON.csproj": {
+    "C:\\Users\\juane\\Desktop\\Universidad\\Semestre 6\\Tópicos avanzados en bases de datos\\Actividad_Bonificacion\\TABD\\Domicilios_JSON\\Domicilios_JSON\\Domicilios_JSON.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\iefaz\\source\\repos\\Domicilios_JSON\\Domicilios_JSON\\Domicilios_JSON.csproj",
+        "projectUniqueName": "C:\\Users\\juane\\Desktop\\Universidad\\Semestre 6\\Tópicos avanzados en bases de datos\\Actividad_Bonificacion\\TABD\\Domicilios_JSON\\Domicilios_JSON\\Domicilios_JSON.csproj",
         "projectName": "Domicilios_JSON",
-        "projectPath": "C:\\Users\\iefaz\\source\\repos\\Domicilios_JSON\\Domicilios_JSON\\Domicilios_JSON.csproj",
-        "packagesPath": "C:\\Users\\iefaz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\iefaz\\source\\repos\\Domicilios_JSON\\Domicilios_JSON\\obj\\",
+        "projectPath": "C:\\Users\\juane\\Desktop\\Universidad\\Semestre 6\\Tópicos avanzados en bases de datos\\Actividad_Bonificacion\\TABD\\Domicilios_JSON\\Domicilios_JSON\\Domicilios_JSON.csproj",
+        "packagesPath": "C:\\Users\\juane\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\juane\\Desktop\\Universidad\\Semestre 6\\Tópicos avanzados en bases de datos\\Actividad_Bonificacion\\TABD\\Domicilios_JSON\\Domicilios_JSON\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\iefaz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\juane\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,7 +26,6 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -38,7 +37,6 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -49,12 +47,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
